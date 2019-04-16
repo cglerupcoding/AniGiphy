@@ -9,14 +9,13 @@ body {
 
 .container {
 	width: 80%;
-	position: absolute;
+	position: absolute
 	top: 580px;
 	left: 10%;
 	padding-bottom: 90px;
 }
 
 .jumbotron {
-	background: url(../images/gameofthronescharacter.jpg) center center no-repeat;
 	height: 400px;
 }
 
