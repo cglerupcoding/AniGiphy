@@ -1,8 +1,9 @@
 body {
 	background: url(../images/bg.jpg);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: 50%;
+	background-position-x: right;
+	background-position-y: 450px;
+	background-repeat: no-repeat;
+    background-size: 75%;
     background-color: #EBEBE9;
     
 }
@@ -16,7 +17,10 @@ body {
 }
 
 .jumbotron {
-	height: 400px;
+	
+	height: 200px;
+	width: 500px;
+	margin-bottom:80px;
 }
 
 .individual-gifs {
