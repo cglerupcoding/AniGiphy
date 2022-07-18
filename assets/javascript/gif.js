@@ -4,7 +4,7 @@ $(document).ready(function() {
     const theme = new Audio("assets/music.mp3");
     var musicPlaying = false;
     var results;
-    //var giphyURL = "https://api.giphy.com/v1/gifs/trending?api_key=7BBLGnNz0EeuzA2WJjmr1oe5BbPwPS8f";
+    //var giphyURL = "https://api.giphy.com/v1/gifs/trending?api_key=6FlQ8u94t8oXD7grjM1y626CgZ4IDP6m";
     
         // MUSIC FUNCTION 
     
